@@ -1,10 +1,6 @@
 
-/**
- * Write a description of class PersonCreator here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+// Creates a person that you can input values for describing the person.
+
 public class PersonCreator
 {
     //The name of the person.
