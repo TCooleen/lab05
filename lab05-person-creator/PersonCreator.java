@@ -28,19 +28,28 @@ public class PersonCreator
     name = first + " " + last;
     }
     
-    // Inputs the person's age.
+    // Description: Inputs the person's age.
+    // Input: Int
+    // Output: Int
+    // Example: age = 7
     public void inputAge(int age1)
     {
         age = age1;
     }
     
     // Inputs the sex of the person.
+    // Input: String
+    // Output: String
+    // Example: sex = male
     public void inputSex (String sex1)
     {
         sex = sex1;
     }
     
     // Input's the height of the person.
+    // Input: Double
+    // Output: Double
+    // Example: 
     public void inputHeight(double height1)
     {
         height = height1 + " inches";
